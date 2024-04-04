@@ -7,7 +7,7 @@ subtitle: Master's student @ KAIST in South Korea
 ![Crepe](https://withalliam.github.io/assets/img/seokjun.jpg){: .mx-auto.d-block :}  
 
 {: .box-note}
-Research Interests:
+**Research Interests:**
 
 - Artificial Intellignce(ML & DL)
 - Time-series Data
@@ -15,7 +15,7 @@ Research Interests:
 - XAI(Explainable AI)
 
 {: .box-note}
-Education:
+**Education:**
 
 **Bachelor**
 

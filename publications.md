@@ -4,7 +4,7 @@ subtitle: Publications
 ---
 
 {: .box-note}
-Domestic Conferences:
+**Domestic Conferences:**
 
 3. H. Jeong, <u><b>S. Kim</b></u>, Y. Go, H. Shin, T. Kim, K. Cho, C. Hong, "Real-world BMS Signal-based Driving Range Prediction for Electric Vehicles", Korean Institute of Information Scietists and Engineers, 2023 (Poster). _Paper Award (Participation prize)_
 
