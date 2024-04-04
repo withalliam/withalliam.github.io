@@ -11,7 +11,7 @@ author: Seokjun Kim
 {: .box-note}
 **Final Project**
 
-The first project when I was an undergraduate, a project in the OSSL(Open Source Software Lab) course. The final project of this course was allowed for anything using open-source, and I made the wesane game a version of handong global university.
+The first project when I was an undergraduate, a project in the OSSL(Open Source Software Lab) course. The final project of this course was allowed for anything using open-source, and I made the wesane game a version of Handong Global University.
 
 You can play through this link. However, the resolution doesn't seem to work well on PC. **I recommend you try it on mobile.** [GAME LINK](https://daxigua-master-seokjunkim.vercel.app/)
 
