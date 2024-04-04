@@ -39,6 +39,8 @@ Nondango is a puzzle divided into 13 to 50 regions at a given 10*10 board. Each 
 <br>
 The Gappy puzzle is a 9x9 grid-based logic game where each cell can be filled with either black or white. The puzzle's main rule is that no two black cells may touch, not even diagonally, ensuring there is at least one white cell separating them. Additionally, each row and each column must contain exactly two black cells. Numbers provided on each row and column indicate the count of white cells between the two black cells. The possible range for these labels is from zero to seven due to the grid's dimensions. To solve a Gappy puzzle, one would typically use a SAT (Boolean satisfiability problem) solver that determines if a set of conditions can be met.
 
+[gappy_report](https://github.com/withalliam/Bachelors/blob/main/Discrete_mathematics/PA1/PA1_gappy.pdf)
+
 [gappy.c](https://github.com/withalliam/Bachelors/blob/main/Discrete_mathematics/PA1/gappy.c)
 
 **5) N-queen problem**
@@ -51,7 +53,36 @@ The N-Queen problem is a classic puzzle that challenges players to place N queen
 
 {: .box-note}
 **Assignment 2**
+<br>
+
+**Generating Languages from Grammars**
+
+[Report](https://github.com/withalliam/Bachelors/blob/main/Discrete_mathematics/PA2/PA2_report.pdf)
+
+Code
+[langdump.c](https://github.com/withalliam/Bachelors/blob/main/Discrete_mathematics/PA2/langdump.c)
+
+Example of Grammar
+[palindrome.txt](https://github.com/withalliam/Bachelors/blob/main/Discrete_mathematics/PA2/palindrome.txt)
 
 
 {: .box-note}
 **Assignment 3**
+<br>
+
+**Haase Diagram Plotter**
+
+The program is a program that draws a Hasse diagram using ezdib, a library that creates a image file.
+
+![hasse](https://withalliam.github.io/assets/img/hasse.png)
+
+[Report](https://github.com/withalliam/Bachelors/blob/main/Discrete_mathematics/PA3/PA3_report.pdf)
+
+Code
+[hasse.c](https://github.com/withalliam/Bachelors/blob/main/Discrete_mathematics/PA3/hasse.c)
+
+ezdib
+[ezdib](https://github.com/withalliam/Bachelors/tree/main/Discrete_mathematics/PA3/ezdib)
+
+Makefile
+[Makefile](https://github.com/withalliam/Bachelors/blob/main/Discrete_mathematics/PA3/Makefile)
