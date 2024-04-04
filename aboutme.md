@@ -28,7 +28,6 @@ Cho Chun Shik Graduate School of Mobility
 In Smart Design Lab [(Prof. Namwoo Kang)](https://www.smartdesignlab.org/)
 
 <br>
-<br>
 
 **Bachelor**
 
