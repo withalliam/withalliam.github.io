@@ -28,12 +28,13 @@ Summa Cum Laude, Salutatorian
 
 In Handong Artificial Intelligance Lab [(Prof. Charmgil Hong)](https://www.linkedin.com/in/charmgil/)
 
+
 **Master**
 
 [Korean Advanced Institute of Science and Technology](https://www.kaist.ac.kr/) (Mar. 2024 ~ Present)
 
 Cho Chun Shik Graduate School of Mobility 
- 
+
 In Smart Design Lab [(Prof. Namwoo Kang)](https://www.smartdesignlab.org/)
 
 {: .box-note}
