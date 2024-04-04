@@ -19,13 +19,13 @@ Education:
 
 [Handong Global Univeresity](https://www.handong.edu/) (Mar. 2016 ~ Aug. 2023)
 
-School of Computer Science and Electrical Engineering
-_Bachelor of Science in Engineering, Bachelor of Science_
+School of Computer Science and Electrical Engineering  
+_Bachelor of Science in Engineering, Bachelor of Science_  
 Summa Cum Laude, Salutatorian
 
 **Master**
 
 [Korean Advanced Institute of Science and Technology](https://www.kaist.ac.kr/) (Mar. 2024 ~ Present)
 
-Cho Chun Shik Graduate School of Mobility
+Cho Chun Shik Graduate School of Mobility  
 In Smart Design Lab [Prof. Namwoo Kang](https://www.smartdesignlab.org/)
