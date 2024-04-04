@@ -16,6 +16,7 @@ The first project when I was an undergraduate, a project in the OSSL(Open Source
 You can play through this link. However, the resolution doesn't seem to work well on PC. **I recommend you try it on mobile.** [GAME LINK](https://daxigua-master-seokjunkim.vercel.app/)
 
 **What does this project do?**
+<br>
 This project developed the Wesane game through open source and made it a vesrion suitable for Handong Global University so that studensts can enjoy it. Using Raspberry pi and html, I created a web that explain the game briefly, and start the game. (The website is now unavailable.)
 
 **The things I did on this project**
@@ -46,6 +47,7 @@ This project developed the Wesane game through open source and made it a vesrion
 8. Enjoy the game with friends comparing the scores.
 
 **How can I make my own version?**
+<br>
 I will explain briefly by step, and refer to the link for detailed descriptions of the steps.
 
 1. You should edit the image file you want to use to fit the resolution. (by PNG)
@@ -57,6 +59,7 @@ I will explain briefly by step, and refer to the link for detailed descriptions 
 7. Then you can obtain a game link.
 
 **Where can I get more help, if I need it?**
+<br>
 To improve the code
 
 Access https://github.com/withalliam/Bachelors/tree/main/OSS_Final_project and pull request.
@@ -66,6 +69,7 @@ Other contacts
 Please send an email, waiatz1214@kaist.ac.kr
 
 **References**
+<br>
 https://www.youtube.com/watch?v=ECsQ8jbpMow (wem html, image)
 
 https://theqoo.net/total/1835926369 (How to make this game)
