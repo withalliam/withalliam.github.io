@@ -8,86 +8,74 @@ mathjax: true
 author: Seokjun Kim
 ---
 
-{: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
-
-**Here is some bold text**
-
-## Here is a secondary heading
-
-[This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
-
-Here's a table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
-When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
-
-How about a yummy crepe?
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
-
-It can also be centered!
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
 {: .box-note}
-**Note:** This is a notification box.
+**Final Project**
 
-### Warning
+The first project when I was an undergraduate, a project in the OSSL(Open Source Software Lab) course. The final project of this course was allowed for anything using open-source, and I made the wesane game a version of handong global university.
 
-{: .box-warning}
-**Warning:** This is a warning box.
+You can play through this link. However, the resolution doesn't seem to work well on PC. **I recommend you try it on mobile.** [GAME LINK](https://daxigua-master-seokjunkim.vercel.app/)
 
-### Error
+**What does this project do?**
+This project developed the Wesane game through open source and made it a vesrion suitable for Handong Global University so that studensts can enjoy it. Using Raspberry pi and html, I created a web that explain the game briefly, and start the game. (The website is now unavailable.)
 
-{: .box-error}
-**Error:** This is an error box.
+**The things I did on this project**
+1. First of all, I edited the image files in a resolution that fits the game.
 
-## Local URLs in project sites {#local-urls}
+![oss_1](https://withalliam.github.io/assets/img/oss_1.png)
 
-When hosting a *project site* on GitHub Pages (for example, `https://USERNAME.github.io/MyProject`), URLs that begin with `/` and refer to local files may not work correctly due to how the root URL (`/`) is interpreted by GitHub Pages. You can read more about it [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). To demonstrate the issue, the following local image will be broken **if your site is a project site:**
+2. I downloaded the Wesane game code file from GitHub.
 
-![Crepe](/assets/img/crepe.jpg)
+![oss_2](https://withalliam.github.io/assets/img/oss_2.png)
 
-If the above image is broken, then you'll need to follow the instructions [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). Here is proof that it can be fixed:
+3. I registered the image for resolution on website and downloaded the compressed file.
+4. I installed Node.js program, and signed up for Vercel via GitHub account.
+5. By using the cmd command prompt, I obtained my game link.
+6. I created the web using Raspberry pi and html, then made my own version using a free html template.
 
-![Crepe]({{ '/assets/img/crepe.jpg' | relative_url }})
+![oss_3](https://withalliam.github.io/assets/img/oss_3.png)
+
+**How do I get started?**
+
+1. When you start the game, you can see 오석관 with the beautiful sunset. (I took this picture 😀)
+2. If you press or drag the screen away, the ball drops to that position.
+3. Each time you press, the ball drops randomly from freshman duck to returning duck.
+4. Ducks in the same grade and semester combine to become a duck in the next grade and semester.
+5. The higher the grade and semester duck, the higher the score.
+6. The game ends when ducks pile up at a certain height or more.
+7. You can access to the game link above and here. https://daxigua-master-seokjunkim.vercel.app/
+8. Enjoy the game with friends comparing the scores.
+
+**How can I make my own version?**
+I will explain briefly by step, and refer to the link for detailed descriptions of the steps.
+
+1. You should edit the image file you want to use to fit the resolution. (by PNG)
+2. Download the Wesane game code file from GitHub. The GitHub link is in the refernce below.
+3. Register the image for resolution and download the compressed file. A link to compress the file is in the rference below too.
+4. Install Node.js
+5. Sign up for Vercel via GitHub account.
+6. You can use the cmd command prompt to deploy the Vercel app.
+7. Then you can obtain a game link.
+
+**Where can I get more help, if I need it?**
+To improve the code
+
+Access https://github.com/withalliam/Bachelors/tree/main/OSS_Final_project and pull request.
+
+Other contacts
+
+Please send an email, waiatz1214@kaist.ac.kr
+
+**References**
+https://www.youtube.com/watch?v=ECsQ8jbpMow (wem html, image)
+
+https://theqoo.net/total/1835926369 (How to make this game)
+
+https://blog.naver.com/chaha_8/222272384875 (How to make this game.2)
+
+https://maltbeer355ml.tistory.com/119 (Image editing)
+
+https://www.free-css.com/free-css-templates (Free template)
+
+https://github.com/liyupi/daxigua (GitHub Link of game code)
+
+https://daxigua-tools.liyupi.com/ (Compressing the image files)
