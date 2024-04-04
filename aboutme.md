@@ -42,4 +42,4 @@ In Smart Design Lab [(Prof. Namwoo Kang)](https://www.smartdesignlab.org/)
 Contacts:
 
 - Email: waiatz1214@kaist.ac.kr, waiatz1214@gmail.com
-- F431, Faculty Building, 193, Munji-ro, Yuseong-gu, Daejeon, Republic of Korea
+- F431, Faculty Wing, 193, Munji-ro, Yuseong-gu, Daejeon, Republic of Korea
