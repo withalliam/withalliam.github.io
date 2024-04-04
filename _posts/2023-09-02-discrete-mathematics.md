@@ -51,3 +51,7 @@ The N-Queen problem is a classic puzzle that challenges players to place N queen
 
 {: .box-note}
 **Assignment 2**
+
+
+{: .box-note}
+**Assignment 3**
