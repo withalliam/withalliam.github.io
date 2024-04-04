@@ -1,10 +1,7 @@
 ---
 layout: page
-title: Seokjun Kim
-subtitle: Master's student @ KAIST in South Korea
+subtitle: Publications
 ---
-
-![Crepe](https://withalliam.github.io/assets/img/seokjun.jpg){: .mx-auto.d-block :}  
 
 {: .box-note}
 Research Interests:
@@ -29,7 +26,9 @@ _Bachelor of Science in Engineering, Bachelor of Science_
 Summa Cum Laude, Salutatorian
 
 In Handong Artificial Intelligance Lab [(Prof. Charmgil Hong)](https://www.linkedin.com/in/charmgil/)
-<br><br>
+
+  
+
 **Master**
 
 [Korean Advanced Institute of Science and Technology](https://www.kaist.ac.kr/) (Mar. 2024 ~ Present)
