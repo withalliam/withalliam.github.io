@@ -1,8 +1,8 @@
 <!-- Check if any share-links are active -->
 {% assign any-share-links = false %}
 {% for links in site.share-links-active %}
-  {% if links[1] == true %}
-    {% assign any-share-links = true %}
+  {% if links[1] == false %}
+    {% assign any-share-links = false %}
   {% endif %}
 {% endfor %}
 
