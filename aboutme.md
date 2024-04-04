@@ -1,16 +1,22 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Seokjun Kim
+subtitle: Master's student @ KAIST in South Korea
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Research Interests:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Artifficial Intellignce(ML & DL)
+- Time-series Data
+- Electric Vehicle & Battery
+- XAI(Explainable AI)
 
-What else do you need?
+Education:
 
-### My story
+**Bachelor**
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+[Handong Global Univeresity](https://www.handong.edu/) (Mar. 2016 ~ Aug. 2023)
+
+School of Computer Science and Electrical Engineering
+_Bachelor of Science in Engineering, Bachelor of Science_
+Summa Cum Laude, Salutatorian
