@@ -3,8 +3,6 @@ layout: post
 title: 2021-1 Final Project of Open-Source Software Lab
 subtitle: Wesane game HGU version
 tags: [Bachelor's project]
-comments: true
-mathjax: true
 author: Seokjun Kim
 ---
 

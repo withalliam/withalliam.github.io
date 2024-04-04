@@ -3,8 +3,6 @@ layout: post
 title: 2021-2 Discrete Mathematics 
 subtitle: Coding Assignments
 tags: [Bachelor's project]
-comments: true
-mathjax: true
 author: Seokjun Kim
 ---
 
