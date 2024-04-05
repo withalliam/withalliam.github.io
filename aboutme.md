@@ -16,8 +16,7 @@ subtitle: Master's student @ KAIST in South Korea
 
 {: .box-note}
 **Education:**
-<br>
-<br>
+
 
 **Master**
 
