@@ -45,4 +45,4 @@ In Handong Artificial Intelligance Lab [(Prof. Charmgil Hong)](https://www.linke
 Contacts:
 
 - Email: waiatz1214@kaist.ac.kr, waiatz1214@gmail.com
-- F431, Faculty Wing, 193, Munji-ro, Yuseong-gu, Daejeon, Republic of Korea
+- F444, Faculty Wing, 193, Munji-ro, Yuseong-gu, Daejeon, Republic of Korea
