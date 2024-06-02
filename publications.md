@@ -6,6 +6,8 @@ subtitle: Publications
 {: .box-note}
 **Domestic Conferences:**
 
+　4. <u><b>S. Kim</b></u>, S. Yang, N. Kang, "Feasiblity Study of Multi-fidelity LSTM for Time-series Prediction", The Korean Society of Mechanical Engineers, 2024 (Poster).
+
 　3. H. Jeong, <u><b>S. Kim</b></u>, Y. Go, H. Shin, T. Kim, K. Cho, C. Hong, "Real-world BMS Signal-based Driving Range Prediction for Electric Vehicles", Korean Institute of Information Scietists and Engineers, 2023 (Poster). _Paper Award (Participation prize)_
 
 　2. <u><b>S. Kim</b></u>, H. Jeong, D. Chung, C. Hong, "Demand Forecasting Using SHAP Analysis and Cluster-based Transfer Learning", Korean Institute of Information Scietists and Engineers, 2023 (Poster). _Paper Award (Participation prize)_
