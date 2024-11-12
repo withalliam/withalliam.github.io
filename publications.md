@@ -6,6 +6,8 @@ subtitle: Publications
 {: .box-note}
 **Domestic Conferences:**
 
+　5. <u><b>S. Kim</b></u>, S. Yang, N. Kang, "Development of a Ensemble-based Multi-fidelity Methodology to Prevent Performance Degradation", The Korean Society of Mechanical Engineers, 2024 (Poster).
+
 　4. <u><b>S. Kim</b></u>, S. Yang, N. Kang, "Feasiblity Study of Multi-fidelity LSTM for Time-series Prediction", The Korean Society of Mechanical Engineers, 2024 (Poster).
 
 　3. H. Jeong, <u><b>S. Kim</b></u>, Y. Go, H. Shin, T. Kim, K. Cho, C. Hong, "Real-world BMS Signal-based Driving Range Prediction for Electric Vehicles", Korean Institute of Information Scietists and Engineers, 2023 (Poster). _Paper Award (Participation prize)_
