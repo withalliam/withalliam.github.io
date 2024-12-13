@@ -18,6 +18,8 @@ The open-source data link is as follows.
 In the movie "Money ball"
 Pythagorian Expectation
 
-$x+y=1$
+$$
+x+y=1
+$$
 
 [paper]
