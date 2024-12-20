@@ -2,6 +2,10 @@
 layout: page
 subtitle: Publications
 ---
+{: .box-note}
+**International Journals:**
+
+　1. <u><b>S. Kim</b></u>, N. Kang, "Multi-fidelity for Time-series by Ensemble (working title)", 2025 _(Working paper)_
 
 {: .box-note}
 **Domestic Conferences:**
