@@ -29,7 +29,13 @@ The format of the data is as follows, and information for machine learning also 
 
 ![baseball_data2](https://withalliam.github.io/assets/img/baseball_data2.png)
 
+Using the data above, preprocess the model features below. Code is also provided.
+
 ![baseball_model](https://withalliam.github.io/assets/img/baseball_model.png)
+
+[[Code](https://github.com/withalliam/withalliam.github.io/blob/master/assets/code/baseball_winrate_prediction.ipynb)]
+
+The model prediction results are as follows. A red line means a 5% error, and a red X mark means a point outside that range. Acc(5%) means how many predictions were successful within that point. In all metrics, using the features I preprocessed myself, you can see that the model predicted with various features of the team for the season showed the best results.
 
 ![baseball_result](https://withalliam.github.io/assets/img/baseball_result.png)
 
@@ -37,7 +43,12 @@ The format of the data is as follows, and information for machine learning also 
 
 ![baseball_result3](https://withalliam.github.io/assets/img/baseball_result3.png)
 
+Finally, SHAP results from models excluding the features related to scores (runs, runs allowed, earned runs, ERA) that are key to predicting win rates, and features directly related to victory (save, shutout).
+
+When these features are included, the importance of the features is so high that it is difficult to see the importance of other features.
+
 ![baseball_shap](https://withalliam.github.io/assets/img/baseball_shap.png)
 
+The link to the paper written in Korean is as follows.
 
-[paper]
+[[Comparison of Major League Baseball Winning Percentage Prediction Models and Pythagorean Expectation Using Machine Learning and Analysis of the Factors for Increasing or Decreasing Winning Percentage Using SHAP](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11183828&googleIPSandBox=false&mark=0&minRead=5&ipRange=false&b2cLoginYN=false&icstClss=010000&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true)]
