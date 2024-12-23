@@ -17,7 +17,7 @@ The open-source data link is as follows.
 
 Sabermetrics, or the increasing use of data-driven baseball analysis, originated from Bill James' statistical study of baseball. Starting as a security guard at a factory, he rose to become a consultant for the Boston Red Sox, demonstrating his significant influence. The concept gained wider recognition and practical application, notably depicted in the movie Moneyball, where William Beane, the general manager of the Oakland Athletics, led the team to a 20-game winning streak in 2002.
 
-One well-known metric in sabermetrics is the Pythagorean Expectation, which predicts a team's winning percentage based on runs scored and runs allowed. Its name comes from its mathematical resemblance to the Pythagorean theorem. The formula is derived from the Weibull distribution, and a proof for this derivation is provided below.
+One well-known metric in sabermetrics is the **Pythagorean Expectation**, which predicts a team's winning percentage **based on runs scored and runs allowed**. Its name comes from its mathematical resemblance to the Pythagorean theorem. The formula is derived from the Weibull distribution, and a proof for this derivation is provided below.
 
 ![weibull](https://withalliam.github.io/assets/img/weibull.png)
 

@@ -9,7 +9,7 @@ author: Seokjun Kim
 {: .box-note}
 **Capstone project**
 
-The final capstone project when I was an undergraduate. The final project was about EV (Elecrtic Vehicle), and BMS (Battery Management System), DTE (Distance To Empty)
+The final capstone project when I was an undergraduate. The final project was about **EV (Elecrtic Vehicle), and BMS (Battery Management System), DTE (Distance To Empty).**
 
 Details of the BMS data of EV cannot be disclosed for security reasons (it is not my own data), but simple information and model results are disclosed later.
 
