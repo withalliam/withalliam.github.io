@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-1 Strucural Analysis Project
+title: 2024-1 Computational Analysis for EV
 subtitle: 
 tags: [A graduate project]
 author: Seokjun Kim
