@@ -12,7 +12,8 @@ subtitle: Master's student @ KAIST in South Korea
 - Artificial Intellignce(ML & DL)
 - Time-series Data
 - Electric Vehicle & Battery
-- XAI(Explainable AI)
+- Multi-fidelity Method
+- Optimization
 
 {: .box-note}
 **Education:**
