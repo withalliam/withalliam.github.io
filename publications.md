@@ -10,6 +10,8 @@ subtitle: Publications
 {: .box-note}
 **Domestic Conferences:**
 
+　6. <u><b>S. Kim</b></u>, N. Kang, "Adaptive Multi-fidelity Learning for Robust Time-series Prediction", The Korean Society of Mechanical Engineers, 2025 (Oral).
+
 　5. <u><b>S. Kim</b></u>, S. Yang, N. Kang, "Development of a Ensemble-based Multi-fidelity Methodology to Prevent Performance Degradation", The Korean Society of Mechanical Engineers, 2024 (Poster).
 
 　4. <u><b>S. Kim</b></u>, S. Yang, N. Kang, "Feasiblity Study of Multi-fidelity LSTM for Time-series Prediction", The Korean Society of Mechanical Engineers, 2024 (Poster).
