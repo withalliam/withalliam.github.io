@@ -13,7 +13,7 @@ subtitle: Master's student @ KAIST in South Korea
 - Time-series Data
 - Electric Vehicle & Battery
 - Multi-fidelity Method
-- Optimization
+- 3D Optimization
 
 {: .box-note}
 **Education:**
