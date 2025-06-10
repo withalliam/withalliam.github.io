@@ -21,7 +21,7 @@ subtitle: Master's student @ KAIST in South Korea
 
 **Master**
 
-[Korean Advanced Institute of Science and Technology](https://www.kaist.ac.kr/) (Mar. 2024 ~ Present)
+[Korea Advanced Institute of Science and Technology](https://www.kaist.ac.kr/) (Mar. 2024 ~ Present)
 
 Cho Chun Shik Graduate School of Mobility 
 
