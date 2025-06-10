@@ -7,6 +7,10 @@ subtitle: Master's student @ KAIST in South Korea
 ![Crepe](https://withalliam.github.io/assets/img/seokjun.jpg){: .mx-auto.d-block :}  
 
 {: .box-note}
+**CV**
+![CV](https://withalliam.github.io/assets/img/CV.docx)
+
+{: .box-note}
 **Research Interests:**
 
 - Artificial Intellignce(ML & DL)
