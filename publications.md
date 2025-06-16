@@ -5,7 +5,7 @@ subtitle: Publications
 {: .box-note}
 **International Journals:**
 
-　1. <u><b>S. Kim</b></u>, N. Kang, "Multi-fidelity for Time-series by Ensemble (working title)", 2025 (Working paper)
+　1. <u><b>S. Kim</b></u>, N. Kang, "Multi-Fidelity Fusion with Adaptive Weighting for Time-series Prediction (working title)", 2025 (Working paper)
 
 {: .box-note}
 **Domestic Conferences:**
