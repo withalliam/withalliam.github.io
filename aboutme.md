@@ -9,7 +9,7 @@ subtitle: Master's student @ KAIST in South Korea
 {: .box-note}
 **CV**
 
-[Download CV](https://withalliam.github.io/assets/CV.docx)
+[Download CV](https://withalliam.github.io/assets/CV.pdf)
 
 {: .box-note}
 **Research Interests:**
