@@ -12,9 +12,9 @@ subtitle: Publications
 
 　8. <u><b>S. Kim</b></u>, N. Kang, "Multi-Fidelity Neural Networks as Experts: A Mixture-of-Experts Approach", The Korean Society of Mechanical Engineers, 2025 (Oral).
 
-　7. <u><b>S. Kim</b></u>, N. Kang, "Safe Reinforcement Learning for 3D Large Scale Constrained Layout Optimization", The Korean Society of Mechanical Engineers, 2025 (Oral).
+　7. J. Kim, <u><b>S. Kim</b></u>, S. Jin, Y. Lee, N. Kang, "Safe Reinforcement Learning for 3D Large Scale Constrained Layout Optimization", The Korean Society of Mechanical Engineers, 2025 (Oral).
 
-　6. J. Kim, <u><b>S. Kim</b></u>, S. Jin, Y. Lee, N. Kang, "Adaptive Multi-fidelity Learning for Robust Time-series Prediction", The Korean Society of Mechanical Engineers, 2025 (Oral).
+　6. <u><b>S. Kim</b></u>, N. Kang, "Adaptive Multi-fidelity Learning for Robust Time-series Prediction", The Korean Society of Mechanical Engineers, 2025 (Oral).
 
 　5. <u><b>S. Kim</b></u>, S. Yang, N. Kang, "Development of a Feedback-based Multi-fidelity Methodology to Prevent Performance Degradation", The Korean Society of Mechanical Engineers, 2024 (Poster).
 
