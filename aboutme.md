@@ -16,17 +16,25 @@ subtitle: Ph.D. student @ KAIST in South Korea
 
 - Artificial Intellignce(ML & DL)
 - Time-series Data
-- Electric Vehicle & Battery
 - Multi-fidelity Method
-- 3D Optimization
+- Layout Optimization
 
 {: .box-note}
 **Education:**
 
+**PhD**
+
+[Korea Advanced Institute of Science and Technology](https://www.kaist.ac.kr/) (Mar. 2026 ~ Present)
+
+Cho Chun Shik Graduate School of Mobility 
+
+In Smart Design Lab [(Prof. Namwoo Kang)](https://www.smartdesignlab.org/)
+
+<br>
 
 **Master**
 
-[Korea Advanced Institute of Science and Technology](https://www.kaist.ac.kr/) (Mar. 2024 ~ Present)
+[Korea Advanced Institute of Science and Technology](https://www.kaist.ac.kr/) (Mar. 2024 ~ Feb. 2026)
 
 Cho Chun Shik Graduate School of Mobility 
 
