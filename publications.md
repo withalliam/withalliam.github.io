@@ -5,14 +5,24 @@ subtitle: Publications
 {: .box-note}
 **International Journals:**
 
-　1. <u><b>S. Kim</b></u>, N. Kang, "Multi-Fidelity Fusion with Adaptive Weighting for Time-series Prediction (working title)", 2025 (Working paper)
+　1. <u><b>S. Kim</b></u>, N. Kang, "Mixture-of-Experts for Predictive Modeling of Redefined Multi-Fidelity Time-Series Data (working title)", 2026 (Working paper)
+
+{: .box-note}
+**International Conferences:**
+
+　1. <u><b>S. Kim</b></u>, N. Kang, "Mixture-of-Experts for Predictive Modeling of Redefined Multi-Fidelity Time-Series Data", International Design Engineering Technical Conferences & Computers and Information in Engineering Conference , 2026 (Oral).
+
 
 {: .box-note}
 **Domestic Conferences:**
 
+　10. <u><b>S. Kim</b></u>, J. Kim, S. Yoo, N. Kang, "Layout Design under Changing Spatial Configurations with Reference Layout Modification", The Korean Society of Mechanical Engineers, 2026 (Poster).
+
+　9. J. Kim, <u><b>S. Kim</b></u>, N. Kang, "Constraint-Aware Large-Scale 3D Layout Optimization via Hybrid Deep Reinforcement Learning", The Korean Society of Mechanical Engineers, 2026 (Oral).
+
 　8. <u><b>S. Kim</b></u>, N. Kang, "Multi-Fidelity Neural Networks as Experts: A Mixture-of-Experts Approach", The Korean Society of Mechanical Engineers, 2025 (Oral).
 
-　7. J. Kim, <u><b>S. Kim</b></u>, S. Jin, Y. Lee, N. Kang, "Safe Reinforcement Learning for 3D Large Scale Constrained Layout Optimization", The Korean Society of Mechanical Engineers, 2025 (Oral).
+　7. J. Kim, <u><b>S. Kim</b></u>, S. Jin, Y. Lee, N. Kang, "Safe Reinforcement Learning for 3D Large Scale Constrained Layout Optimization", The Korean Society of Mechanical Engineers, 2025 (Oral). _Best Paper Award_
 
 　6. <u><b>S. Kim</b></u>, N. Kang, "Adaptive Multi-fidelity Learning for Robust Time-series Prediction", The Korean Society of Mechanical Engineers, 2025 (Oral).
 

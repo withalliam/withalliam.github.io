@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Seokjun Kim
-subtitle: Master's student @ KAIST in South Korea
+subtitle: Ph.D. student @ KAIST in South Korea
 ---
 
 ![Crepe](https://withalliam.github.io/assets/img/seokjun.jpg){: .mx-auto.d-block :}  
