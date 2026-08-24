@@ -6,6 +6,10 @@ subtitle: Projects
 {: .box-note}
 **Ongoing Projects:**
 
+　2. **현대자동차**, "인공지능을 활용한 하이드로 G부싱 필드 거동 특성 분석", 2026.8-
+
+　1. **삼성중공업**, "실적기반 엔진룸 장비 배치 알고리즘 개발", 2026.4-2026.9
+
 {: .box-note}
 **Past Projects:**
 
